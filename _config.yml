@@ -3,17 +3,20 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            anno6882
+tagline:          yet another tech blog
+url:              http://http://anno6882.github.io/
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           anno6882
+  url:            http://http://anno6882.github.io/
+  email:          h5zbt@notsharingmy.info
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/anno6882/anno6882.github.io
+  
+# This is the list of pages to incldue in the header of the website.
+pages_list:       {'Archive':'/archive'}
