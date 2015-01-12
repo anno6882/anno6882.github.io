@@ -6,7 +6,7 @@ relative_permalinks: true
 title:            anno6882
 tagline:          yet another tech blog
 url:              http://http://anno6882.github.io/
-paginate:         1
+paginate:         3
 baseurl:          /
 author:
   name:           anno6882
