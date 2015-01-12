@@ -5,7 +5,7 @@ comments: true
 published: true
 ---
 
-# Hello World
+## Hello World
 With this post, i've sucessfully found out how to setup a blog hosted by [Github pages](http://pages.github.com/)
 using [Jekyll](http://jekyllrb.com) and [poole](https://github.com/poole/poole).
 
